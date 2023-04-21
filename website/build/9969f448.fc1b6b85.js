@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[16],{83:function(e){e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Release 0.7.0 feels like 007","permalink":"/blog/2021/06/06/james-bond-release"},{"title":"Hello Ledokku, goodbye Her*ku","permalink":"/blog/2021/03/21/hello-ledokku-goodbye-hero*ku"}]}')}}]);
